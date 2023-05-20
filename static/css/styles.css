@@ -10796,3 +10796,8 @@ header.masthead .post-heading .meta a {
     font-size: 2.25rem;
   }
 }
+
+.col-md-5 img {
+  width: 100%;
+  height: 100%;
+}
