@@ -2,72 +2,86 @@
     {
       "name": "Thorin II Oakenshield",
       "description": "Thorin II was born in TA 2746 to Dwarf prince Thráin II in the city of the Lonely Mountain. Early in his youth, he and the other Dwarves of the Lonely Mountain were forced to flee by the dragon Smaug in TA 2770. While in exile, he quickly grew to become a capable warrior. This was demonstrated when he participated in the Battle of Azanulbizar in TA 2799. He fought with one of the Dwarven armies beneath the East-gate of Moria. At some point in the fighting, his shield broke, and using an oaken tree branch found on the ground as a shield, he gained the epithet 'Oakenshield,' which would remain with him even in death.\n\nThorin became King-in-Exile of Durin's Folk in TA 2850 after his father went missing, and died in the dungeons of Dol Guldur.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/3/3f/ThorinBIG.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/3/3f/ThorinBIG.jpg",
+      "url": "thorin"
     },
     {
       "name": "Fili and Kili",
       "description": "Fíli and Kíli were nephews of Thorin, who was the elder brother of their mother, Dís. They were also nephews of Frerin, grandsons of Thráin II, and great-grandsons of Thrór. Fíli's most distinguishing feature was his long nose, the longest of any of the Dwarves in Thorin's company.\n\nAs the youngest Dwarves, Fíli and Kíli had the sharpest eyes, and were often sent scouting or searching. It was they that found the Front Porch while in the Misty Mountains.\n\nWith the other Dwarves, Fíli and Kíli encountered spiders and were later imprisoned by the Elvenking Thranduil. They escaped the cells thanks to Bilbo, traveling down the river in barrels until they reached Lake-town. The brothers accompanied Thorin and Bilbo to Lake-town while the others rested by the river.\n\nAt the feet of the Lonely Mountain, Fíli and Kíli scouted Ravenhill and found the Front Gate with Balin and Bilbo. Also, with Bilbo, they found the side-door leading into the mountain.\n\nBoth brothers were killed while defending the mortally wounded Thorin Oakenshield in the Battle of Five Armies, and all three were buried with honor.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/a/a1/BOTFA_-_Fili_and_Kili.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/a/a1/BOTFA_-_Fili_and_Kili.jpg",
+      "url": "fili-and-kili"
     },
     {
       "name": "Balin",
       "description": "Balin was one of the dwarves in Thorin's company. He was a trusted companion and Thorin's second-in-command. Balin played a key role in the quest to reclaim the Lonely Mountain. He was known for his wisdom and knowledge, and he often provided guidance and counsel to Thorin. Balin's most notable achievement was his attempt to reclaim the ancient Dwarven kingdom of Moria. Unfortunately, his expedition ended in failure, and he perished there. Despite his fate, Balin's memory lived on as a respected member of Thorin's company.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/5/52/Balin.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/5/52/Balin.jpg",
+      "url": "balin"
     },
     {
       "name": "Dwalin",
       "description": "Dwalin was one of the oldest and most seasoned Dwarves in Thorin's company. He was a powerful warrior and skilled with various weapons, including an axe and a war hammer. Dwalin was known for his fierce loyalty and protective nature. He was also Thorin's close friend and often served as his advisor.\n\nDuring the quest to reclaim the Lonely Mountain, Dwalin fought bravely in numerous battles and skirmishes. He displayed his combat prowess and fearlessness in the face of danger. Despite facing many hardships, Dwalin remained resolute and determined.\n\nAfter the death of Thorin Oakenshield and the successful reclamation of Erebor, Dwalin became a prominent figure in the kingdom. He played a vital role in maintaining peace and order within the dwarven realm, ensuring the prosperity of his people.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/1/1c/Dwalin.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/1/1c/Dwalin.jpg",
+      "url": "dwalin"
     },
     {
       "name": "Dori",
       "description": "Dori, a stout and reliable member of Thorin's company, played a vital role in their arduous quest. Known for his strength and endurance, Dori served as the protector and caretaker of his fellow dwarves. With a selfless and nurturing nature, he was often seen lending a helping hand to those in need. Dori's loyalty and unwavering support were a source of comfort to the company during their perilous journey. His steady presence and keen sense of responsibility exemplified the noble qualities that define a true companion.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/2/27/Mark_Hadlow_as_Dori.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/2/27/Mark_Hadlow_as_Dori.jpg",
+      "url": "dori"
     },
     {
       "name": "Nori",
       "description": "Nori, a skilled thief with a mysterious past, added an element of intrigue to Thorin's company. Known for his nimble fingers and quick thinking, Nori possessed a talent for sneaking past obstacles and acquiring valuable resources. Despite his mischievous nature, he proved himself as a reliable and resourceful member of the group. Nori's unique skills and keen sense of survival often came in handy during their perilous journey. His enigmatic demeanor and unexpected acts of bravery left an indelible impression on Thorin and the company, ensuring his place in their shared history.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/5/50/Untitled-31.png"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/5/50/Untitled-31.png",
+      "url": "nori"
     },
     {
       "name": "Ori",
       "description": "Ori, a dwarf with a talent for writing and chronicling their journey, played a crucial role in Thorin's company. With his quill and parchment ever ready, Ori diligently recorded the trials and triumphs of their quest. Known for his gentle and kind nature, he provided a calming presence amidst the challenges they faced. Ori's skills extended beyond writing, as he also displayed bravery in times of danger. His loyalty and unwavering spirit uplifted the spirits of his companions, reminding them of the importance of their mission. Ori's words and actions contributed to the legacy of Thorin and Company, forever etched in the annals of their shared history.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/8/81/Ori.jpeg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/8/81/Ori.jpeg",
+      "url": "ori"
     },
     {
       "name": "Óin",
       "description": "Óin, a skilled healer and expert in medicinal arts, played a vital role in Thorin's company. With his vast knowledge of herbs, poultices, and remedies, Óin was the primary source of medical care for the group. Whether it was treating wounds, curing ailments, or providing comfort, his skills were indispensable during their perilous journey. Despite the constant dangers they faced, Óin remained focused and dedicated to ensuring the well-being of his companions. His calm and reassuring presence provided solace amidst the chaos, earning the respect and gratitude of Thorin and the entire company.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/2/20/Oin_2.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/2/20/Oin_2.jpg",
+      "url": "oin"
     },
     {
       "name": "Glóin",
       "description": "Glóin, a seasoned warrior and skilled diplomat, brought his wisdom and experience to Thorin's company. As the father of Gimli, a prominent member of the Fellowship of the Ring, Glóin's dedication to the cause was unwavering. Known for his impressive beard adorned with intricate braids, Glóin was a respected voice of reason within the group. He possessed exceptional negotiation skills, often representing the dwarves' best interests during interactions with other races. Glóin's loyalty to Thorin and the desire to reclaim their homeland burned fiercely in his heart, driving him forward amidst countless challenges.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/f/fc/Gloin_2.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/f/fc/Gloin_2.jpg",
+      "url": "gloin"
     },
     {
       "name": "Bifur",
       "description": "Bifur, a distinctive member of Thorin's company, had a rich history and a unique trait that set him apart. Known for the ancient Dwarvish axe embedded in his head, Bifur's story was one of resilience and determination. Despite his injury, Bifur remained an active participant in their quest. Though his communication was limited due to the axe's presence, he made his presence felt through actions. Bifur's strength and unwavering spirit were an inspiration to his comrades, showcasing the indomitable nature of the dwarves. His presence added a touch of mystery to the company and reminded everyone that true heroes come in all forms.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/7/73/Bifur_2.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/7/73/Bifur_2.jpg",
+      "url": "bifur"
     },
     {
       "name": "Bofur",
       "description": "Bofur, a jovial and charismatic member of Thorin's company, brought laughter and warmth to their arduous journey. Known for his infectious optimism and love for music, Bofur's cheerful presence lifted the spirits of his companions during times of hardship. With his trusty clarinet in hand, he would often entertain the group with lively tunes, boosting morale and creating moments of respite from their challenging quest. Bofur's resourcefulness and quick thinking in dire situations made him a valuable asset to the company. His unwavering positivity and unwavering loyalty made him a cherished member of Thorin's band of dwarves.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/5/56/Bofur_Nesbitt.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/5/56/Bofur_Nesbitt.jpg",
+      "url": "bofur"
     },
     {
       "name": "Bombur",
       "description": "Bombur, a jovial and good-natured member of Thorin's company, brought a hearty appetite and unwavering strength to their challenging journey. Known for his love of food and his robust stature, Bombur's presence added a sense of warmth and humor to the group. His culinary skills were unmatched, and he could whip up a delicious feast even in the most trying circumstances. Bombur's size and strength made him an asset in physical tasks, providing much-needed support to his companions. Despite his occasional clumsiness, Bombur's determination and loyalty were unwavering, making him an integral part of Thorin's band of adventurers.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/e/ed/Bombur.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/e/ed/Bombur.jpg",
+      "url": "bombur"
     },
     {
       "name": "Bilbo Baggins",
       "description": "Bilbo Baggins, a hobbit from the Shire, was unexpectedly thrust into an adventure when he joined Thorin's company. Initially known for his love of comfort and his reluctance to leave his cozy hobbit hole, Bilbo's journey with Thorin and the other dwarves transformed him into a courageous and resourceful member of the group. His quick thinking and wit often helped the company overcome various obstacles, earning him the respect and admiration of his companions. Bilbo's possession of the One Ring, which he stumbled upon during their quest, played a crucial role in their mission to reclaim Erebor. Despite the initial skepticism and occasional conflicts, Bilbo's loyalty to Thorin and his friends never wavered, proving himself as a true friend and ally to the company.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/b/b6/The_Hobbit_wallpaper_48.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/b/b6/The_Hobbit_wallpaper_48.jpg",
+      "url": "bilbo-baggins"
     },
     {
       "name": "Gandalf",
       "description": "Gandalf, also known as Gandalf the Grey or Gandalf the White, was a wise and powerful wizard who played a pivotal role in Thorin's company and the events of Middle-earth. With his long white beard, staff, and iconic wizard hat, Gandalf served as a trusted advisor and mentor to Thorin and his companions. His extensive knowledge, magical abilities, and keen insight proved invaluable to the group as they faced numerous challenges on their quest. Gandalf's guidance and wisdom helped the company navigate dangerous territories and make critical decisions. As a servant of the greater good, Gandalf shared Thorin's desire to reclaim Erebor and restore the dwarves' homeland. His unwavering determination, selflessness, and profound understanding of the world made him a beloved and respected member of Thorin's company.",
-      "image_source": "https://static.wikia.nocookie.net/lotr/images/e/e7/Gandalf_the_Grey.jpg"
+      "image_source": "https://static.wikia.nocookie.net/lotr/images/e/e7/Gandalf_the_Grey.jpg",
+      "url": "gandalf"
     }
   ]
   
